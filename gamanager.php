@@ -34,7 +34,7 @@ function admin_menu_gamanager() {
 }
 
 function options_page_gamanager() {
-  include(WP_PLUGIN_DIR.'/gamanager/options.php');  
+  include(WP_PLUGIN_DIR.'/simple-google-analytics-manager/options.php');  
 }
 
 function gamanager() {
